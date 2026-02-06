@@ -14,6 +14,7 @@ public class Main {
 		Saludo s = new Saludo();
 		
 		System.out.println(s.saludar("DAW"));
+		System.out.println("Prueba");
 		
 		// === BLOQUE B (solo Alumno B) ===
 	}
