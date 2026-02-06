@@ -14,7 +14,7 @@ public class Main {
 		Saludo s = new Saludo();
 		
 		System.out.println(s.saludar("DAW"));
-		System.out.println("Prueba2");
+		System.out.println("Prueba3");
 		
 		// === BLOQUE B (solo Alumno B) ===
 		System.out.println("Multiplica: " + calc.multiplicar(a, b));
