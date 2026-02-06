@@ -17,5 +17,6 @@ public class Main {
 		System.out.println("Prueba2");
 		
 		// === BLOQUE B (solo Alumno B) ===
+		System.out.println("Multiplica: " + calc.multiplicar(a, b));
 	}
 }
