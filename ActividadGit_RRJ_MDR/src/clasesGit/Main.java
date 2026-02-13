@@ -6,7 +6,7 @@ public class Main {
 		Calculadora calc = new Calculadora();
 		int a = 10, b = 3;
 
-		String etiqueta = "VERSION A";
+		String etiqueta = "VERSION B";
 
 		System.out.println("Etiqueta: " + etiqueta);
 		System.out.println("Suma: " + calc.sumar(a, b));
